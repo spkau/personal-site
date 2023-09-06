@@ -1,0 +1,152 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.home-page{
+    display: inline-flex;
+    
+    background-image: url(./back1.jpg);
+    height: 768px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    
+    font-family: 'DM Serif Display', serif;
+    background-color: #94A684;
+    padding: 10px;
+    border-radius: 6%;
+    
+}
+.hero-section{
+    
+
+    
+    
+    background-color: #E4E4D0;
+    height: 768px;
+    width: 100%;
+   
+    
+}
+.imagebox{
+    display: flex;
+    height: 250px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+
+}
+.profile-photo{
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+
+    height: 200px;
+    width: 170px;
+    
+    border-radius: 50%;
+}
+h2{
+    
+    font-family: 'DM Serif Display', serif;
+    font-size: xx-large;
+
+}
+p{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.content2{
+    background-color: #FFEEF4;
+    margin-top: 0%;
+    padding-top: .1%;
+    text-align: center;
+    margin-bottom:0%;
+    padding-bottom: 2%;
+    
+}
+.content3{
+    
+    background-color: #94A684;
+    margin-bottom: 5%;
+    padding: 1%;
+    
+}
+#skills{
+    font-weight: bolder;
+    
+}
+.content3box{
+    display: flex;
+    justify-content: center;
+}
+.Resume{
+    background-color:#FFEEF4;
+    width: 100%;
+    height: 300px;
+    padding-top: 20%;
+    display: flex;
+    justify-content: center;
+}
+#res{
+    
+    padding-left: 5%;
+    margin-bottom: 0%;
+    border-radius:25%;
+    
+    height: 50px;
+    width: 125px;
+    background-color:#94A684;
+    color: black;
+}
+.Contact{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    
+    text-align: center;
+   display: flex;
+   justify-content: center;
+    width: 100%;
+    background-color: 
+    display:flex;
+    
+    
+}
+
+.contactbox{
+    font-weight: bolder;
+}
+.logo1{
+    height: 50px;
+    
+}
+.logo2{
+    margin-top: 8px;
+    height: 35px;
+}
+.socialmedia{
+    padding-top: 5%;
+    padding-bottom: 10%;
+    width: 100%;
+    display: flex;
+    justify-content: centre
+
+}
+.socialmedia>div{
+    margin-top: 10px;
+    margin-left: 45%;
+    display: flex;
+}
+.logobox{
+    
+    width: 100px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
